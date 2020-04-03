@@ -1,0 +1,6 @@
+url = 'http://127.0.0.1/stats;csv;norefresh'
+auth_user = 'heremyauthuser'
+auth_password = 'heremypasswordauth'
+
+xymon_column = 'haproxy'
+xymon_title = 'Monitoria HA'
